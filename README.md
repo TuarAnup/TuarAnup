@@ -5,4 +5,4 @@
 - 📫 You can contact me via anupe.raut81@gmail.com for any collaborative projects.
 
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api username=TuarAnup &theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api username=TuarAnup&theme=radical)
