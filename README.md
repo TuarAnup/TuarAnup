@@ -7,4 +7,4 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TuarAnup&theme=great-gatsby)
 
-![Top Languages Used ](https://github-readme-stats.vercel.app/top-langs/?username=TuarAnup@show_icons@theme=nord)
+![Top Languages Used ](https://github-readme-stats.vercel.app/top-langs/?username=TuarAnup@show_icons@theme=great-gatsby)
